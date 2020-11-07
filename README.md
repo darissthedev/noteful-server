@@ -63,7 +63,7 @@
 * __public__ folder contains the View related files
 * __src__ folder contains the Controller related files
     * __server.js__ is the entry point of the Controller logic (where all the general app settings live)
-    * __app.js__ is the starting pint for the routes
+    * __app.js__ is the starting point for the routes
 
     * __pancake__ folder contains the router with all the pancake API endpoints
         * __pancake-router.js__ Pancake Router
