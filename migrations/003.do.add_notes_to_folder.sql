@@ -1,4 +1,4 @@
 ALTER TABLE notes
  ADD COLUMN
- folder_id INTEGER REFERENCES folders(id)
+ folder_id INTEGER REFERENCES folders(folder_id)
  ON DELETE CASCADE NOT NULL;
